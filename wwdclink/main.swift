@@ -1,0 +1,8 @@
+#!/usr/bin/swift
+
+import Foundation
+
+let components = (Process.arguments[1] as String).componentsSeparatedByString(" ")
+
+print("https://developer.apple.com/videos/wwdc/\(components[0])/?id=\(components[1])")
+
