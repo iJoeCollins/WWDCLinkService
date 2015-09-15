@@ -9,4 +9,4 @@ Automator service that takes highlighted text in the form 'year# session#' and r
 ### Create a keyboard shortcut
 Open System Preferences, go to Keyboard...Shortcuts...Services, add a shortcut to "Get WWDC Session Link"
 
-Follow @iJoeCollins
+Follow [@iJoeCollins](https://twitter.com/iJoeCollins)
